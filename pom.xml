@@ -12,7 +12,7 @@
 	<artifactId>desafio02</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>desafio02</name>
-	<description>Modelo de domínio e ORM</description>
+	<descricao>Modelo de domínio e ORM</descricao>
 	<url/>
 	<licenses>
 		<license/>
